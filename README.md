@@ -11,6 +11,10 @@ Functionality was built into this Stripe recurring payment. After a successful t
 5. Test it out.
 6. Adjust it to your preferences, and you're ready to go! I hope this code was useful to you.
 
-# Why this code?
+# Stripe-payment.php
 
-It can be expanded and simplified to the greatest extent. You can adjust it whatever you like! Feel free to use it.
+The user can enter their credit card information in a popup that is displayed as a result of this code.
+
+# Stripe-payment-advanced-bank.php
+
+The user can enter their credit card information or transfer money to a bank account in a popup that is displayed as a result of this code.
