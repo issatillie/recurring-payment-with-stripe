@@ -1,8 +1,8 @@
-# Recurring-payment-with-stripe
+# recurring-payment-with-stripe
 
 Functionality was built into this Stripe recurring payment. After a successful transaction, it automatically changes the customer's information.
 
-# Installation
+# installation
 
 1. To install it, either download the ```stripe-php``` folder or use your composer.
 2. Register with Stripe. Configure Stripe in testmodus. Take note of the secret and publishable key.
@@ -11,10 +11,14 @@ Functionality was built into this Stripe recurring payment. After a successful t
 5. Test it out.
 6. Adjust it to your preferences, and you're ready to go! I hope this code was useful to you.
 
-# Stripe-payment.php
+# stripe-payment.php
 
 The user can enter their credit card information in a popup that is displayed as a result of this code.
 
-# Stripe-payment-advanced-bank.php
+# stripe-payment-advanced-bank.php
 
 The user can enter their credit card information or transfer money to a bank account in a popup that is displayed as a result of this code.
+
+# stripe-payment-advanced-ideal.php
+
+The user can either enter their credit card information or use iDeal in a popup that is displayed as a result of this code.
