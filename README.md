@@ -15,6 +15,6 @@ Functionality was built into this Stripe recurring payment. After a successful t
 
 The user can enter their credit card information in a popup that is displayed as a result of this code.
 
-# stripe-payment-advanced-ideal.php
+# stripe-payment-with-ideal.php
 
-The user can either enter their credit card information or use iDeal in a popup that is displayed as a result of this code. Note that this only works when the currency is set to euro's (€).
+This payment will redirect the customer to Stripe to pay with iDeal or a credit card.
