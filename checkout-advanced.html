@@ -1,4 +1,4 @@
-<form action="stripe-payment-advanced-ideal.php" method="post">
+<form action="recurring_payment.php" method="post">
   <p>
     <label for="email">Email:</label>
     <input type="email" id="email" name="email" required>
@@ -59,7 +59,12 @@
         }
       });
     } else if (payment_method == "ideal") {
-      document.getElementById("credit_card_section").style.display = "none"; 
+      document.getElementById("credit_card_section").style.display = "none";
+      document.getElementById("ideal_section").style.display = "block";
+    } else {
+      document.getElementById("credit_card_section").style.display = "none";
+      document.getElementById("ideal_section").style.display = "none";
     }
-    });
+  });
 </script>
+
