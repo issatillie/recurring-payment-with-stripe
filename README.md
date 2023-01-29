@@ -1,4 +1,4 @@
-# recurring-payment-with-stripe
+# Recurring-payment-with-stripe
 
 Functionality was built into this Stripe recurring payment. After a successful transaction, it automatically changes the customer's information.
 
