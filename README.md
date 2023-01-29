@@ -1,7 +1,7 @@
 # recurring-payment-with-stripe
 
-This recurring payment with Stripe was built with functionality. It automatically updates customer information after the payment was succesfull. 
+Functionality was built into this Stripe recurring payment. After a successful transaction, it automatically changes the customer's information.
 
 # Installation
 
-Download the folder ```stripe-php``` or use your composer to install it. 
+To install it, either download the ```stripe-php``` folder or use your composer. Adjust it to your preferences, and you're ready to go! I hope this code was useful to you.
