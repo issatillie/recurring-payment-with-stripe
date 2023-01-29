@@ -21,4 +21,4 @@ The user can enter their credit card information or transfer money to a bank acc
 
 # stripe-payment-advanced-ideal.php
 
-The user can either enter their credit card information or use iDeal in a popup that is displayed as a result of this code.
+The user can either enter their credit card information or use iDeal in a popup that is displayed as a result of this code. Note that this only works when the currency is set to euro's (€).
