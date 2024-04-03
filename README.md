@@ -4,7 +4,7 @@ Functionality was built into this Stripe recurring payment. After a successful t
 
 # installation
 
-1. To install it, either download the ```stripe-php``` folder or use your composer.
+1. To install it, use your composer and type in ```require stripe/stripe-php```
 2. Register with Stripe. Configure Stripe in testmodus. Take note of the secret and publishable key.
 3. Create a plan on Stripe and copy the ID.
 4. Go to ```stripe-payment.php``` and copy the following ID in the ```your_plan_id``` field.
